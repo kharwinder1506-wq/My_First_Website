@@ -1,2 +1,1 @@
-# My_First_Website
-This is a freindly test on github pages for students
+# that is my first website
